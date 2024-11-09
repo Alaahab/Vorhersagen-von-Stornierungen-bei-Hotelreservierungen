@@ -45,4 +45,4 @@ Der letzte Schritt umfasst das Speichern des Modells zur späteren Verwendung un
 ### Installation
 1. Klonen Sie das Repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Alaahab/Vorhersagen-von-Stornierungen-bei-Hotelreservierungen.git
